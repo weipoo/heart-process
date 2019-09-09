@@ -50,6 +50,6 @@ setProcessWith(data) {
 ```
 
 ### 4. 效果图：
-![](https://weipo.oss-cn-shanghai.aliyuncs.com/github/images/process_2019_09_09.png)
+![](https://github.com/weipoo/heart-process/blob/master/process_2019_09_09.png)
 ### 5. gitHub仓库地址：
 [心形进度条实现](https://github.com/weipoo/add-tips)
