@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<!-- process start -->
+<view class="box">
+     <view class="progress">
+                <view class="progress__bg"></view>
+                <view class="progress__line" style="width: {{lineValue}}px;"></view>
+                <view class="block__bg" style="left:{{blockValue}}px;">
+                    <image class="block__img" src='{{blockSrc}}'></image>
+                </view>
+     </view>
+</view>
+<!-- process end -->
